@@ -1,3 +1,6 @@
+title: Mike's Recipes
+description: This is a test page built for a class on using GitHub
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
 relative_links:
