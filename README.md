@@ -1,2 +1,4 @@
 # mikes_recipes
-Mike's recipes
+Mike's recipes:
+
+[Guacamole](guacamole.md)
